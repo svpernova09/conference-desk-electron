@@ -1,0 +1,31 @@
+{
+  "name": "conference-desk-electron",
+  "version": "0.0.1",
+  "description": "Electron Based Desktop Application for Conference Badge Printing and Raffle Software",
+  "main": "app/main.js",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "marked": "^0.3.6"
+  },
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "^1.4.6",
+    "electron-packager": "^8.2.0",
+    "eslint": "^3.10.0"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svpernova09/conference-desk-electron.git"
+  },
+  "keywords": [],
+  "author": "Joe Ferguson <joe@joeferguson.me> (http://joeferguson.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svpernova09/conference-desk-electron/issues"
+  },
+  "homepage": "https://github.com/svpernova09/conference-desk-electron"
+}
